@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="70" height="12" tilewidth="70" tileheight="70" nextobjectid="1">
+ <tileset firstgid="1" name="tiles_spritesheet" tilewidth="70" tileheight="70" spacing="2">
+  <image source="D:/Users/Desktop/Developing/GameDevPrograms/Assets/kenneyDonation_v22/Art (13.544 files)/Platformer assets (1330 assets)/Base pack (360 assets)/Tiles/tiles_spritesheet.png" trans="ff00ff" width="914" height="936"/>
+ </tileset>
+ <tileset firstgid="157" name="item_Pack" tilewidth="70" tileheight="70" spacing="1">
+  <image source="D:/Users/Desktop/Developing/GameDevPrograms/Assets/kenneyDonation_v22/Art (13.544 files)/Platformer assets (1330 assets)/Base pack (360 assets)/Items/item_Pack.png" trans="ff00ff" width="780" height="283"/>
+ </tileset>
+ <layer name="Background" width="70" height="12">
+  <data encoding="base64" compression="zlib">
+   eJztzAEJAAAIAKD+j4imdqIgQgcYAQDwWw49tfQCdzRzeQHd
+  </data>
+ </layer>
+ <layer name="Foreground" width="70" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApoC5yR8ECDweIOEBjO4ZJBgV70cNkFpY9BaTcorUmBHdjAXjxuQQfHsIgRAqAwmQllnyDDTbjSC8wtQVA7CGFk9+CTx6eGEoxu/kwoxiZPLTfMJBIzECFPSA25mJDZ6IAadrpQETNQ2Txkc/GZjQ6oYScAZ5hZUg==
+  </data>
+ </layer>
+ <layer name="Collectable" width="70" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMArIA/NpbP42JEwLcIjK5qGHBynhcwgJDzQYDG6AgUNo9ECCweAGGBhM6WUUjILhBgCvNQxW
+  </data>
+ </layer>
+ <layer name="Enemies" width="70" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSggHSwdaAdgAbuJULOcxm6gtfmjYBSMAtoCAHiBAq8=
+  </data>
+ </layer>
+</map>

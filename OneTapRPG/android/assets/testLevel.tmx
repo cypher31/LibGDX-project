@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="48" height="27" tilewidth="70" tileheight="70" nextobjectid="1">
+ <tileset firstgid="1" name="tiles_spritesheet" tilewidth="70" tileheight="70" spacing="2">
+  <image source="D:/Users/Desktop/Developing/GameDevPrograms/Assets/kenneyDonation_v22/Art (13.544 files)/Platformer assets (1330 assets)/Base pack (360 assets)/Tiles/tiles_spritesheet.png" trans="ff00ff" width="914" height="936"/>
+  <terraintypes>
+   <terrain name="New Terrain" tile="-1"/>
+  </terraintypes>
+  <tile id="95" terrain="0,0,0,0"/>
+ </tileset>
+ <tileset firstgid="157" name="item_Pack" tilewidth="70" tileheight="70" spacing="1">
+  <image source="D:/Users/Desktop/Developing/GameDevPrograms/Assets/kenneyDonation_v22/Art (13.544 files)/Platformer assets (1330 assets)/Base pack (360 assets)/Items/item_Pack.png" trans="ff00ff" width="780" height="283"/>
+ </tileset>
+ <layer name="0" width="48" height="27">
+  <data encoding="base64" compression="zlib">
+   eJzt1MENgCAMhWGWcAsX0TG8OBNxWcOBhBiRtvgsNf2TxosJHyqG4Hme5/2tSJjRs+5PWfen3vDvjEHU658ZswnXaKXhR+6B01oMZw2t83YQhvKPlkxuIt7HtaPc5bTsNb8V+53fkv3qt2Yv/ZpnVWrPfood7ZfYI8OO9EvtI/h77Ff/Urmi9tBrpzz/8NF7QH4/2sanOQHV0GoV
+  </data>
+ </layer>
+ <layer name="1" width="48" height="27">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgwVsG2gHUAiYBtoBIwyMphfagVIgziACDwRIwiF+iK6uoD6whOKhAiwZaO9mRQZEWouFirmi2a2LpD4QhzmWDPRxLzIAuV0UiGcCsReJekHqYf7mJEEfrrxBCGii8ZHdDsLJJJqHrH4GA2l+IAWUMGAvl5DdTqn7QYBWfphJJK5igKQJYnEbFrtAfiCmTEcu1xUJqMPn5oEGikSoGcpuB4Gh7HYQGMpuB4Gh4HZ87eTB7nYQwNdOHqxux9ZuIQaoEeBTC8DaCbjcDqo/e6EYG1iKxqeVO/EBYtyOzf1SQKxHpB27yHMaQUBsuOMKfysg3siAyNtZQKyCBUsA8QY0jKvNRG8cwwDJ2yC3hwBxAw5MbBtpIDAATBZzAA==
+  </data>
+ </layer>
+ <layer name="2" width="48" height="27">
+  <data encoding="base64" compression="zlib">
+   eJztzrENADAIA0GGyABMzbzpKSKhRAFLf40bF28GAAAA4IXoDrik2h9p1aj25276/5rYvwrfif1e+Kr3T+TdATjanEYMww==
+  </data>
+ </layer>
+</map>
